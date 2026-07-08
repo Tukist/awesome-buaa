@@ -44,6 +44,8 @@
 
 - [GitHub - aleafofwutong/BBUAA: 北航教室课堂直播回放下载工具](https://github.com/aleafofwutong/BBUAA) 【PYTHON】基于Python的北航教室课堂直播回放下载工具，支持批量下载和自动重试，目前适用于Windows、Linux系统
 
+- [GitHub - Tukist/buaa-audio-sync](https://github.com/Tukist/buaa-audio-sync) 【JAVASCRIPT】Tampermonkey 脚本合集：PPT 切换时保持教师音频不中断 + 语音识别内容实时字幕叠加
+
 ### 智慧北航
 
 - [GitHub - BUAASubnet/UBAA: 更好的智慧北航. Make BUAA Great Again!](https://github.com/BUAASubnet/UBAA)【KOTLIN】智慧北航 Remake，基于 Kotlin Multiplatform 和 Compose Multiplatform 构建的现代化C/S架构跨平台应用
